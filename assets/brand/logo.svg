@@ -1,0 +1,27 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 160 160"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <title id="title">Ionian Wikithon wiki-code mark</title>
+  <desc id="desc">
+    An original W framed by two pairs of wiki-link brackets, in forest green on
+    warm white.
+  </desc>
+  <path fill="#F7FAF7" d="M0 0h160v160H0z" />
+  <g color="#123D2A">
+    <g
+      fill="none"
+      stroke="currentColor"
+      stroke-width="5"
+      stroke-linecap="square"
+      stroke-linejoin="miter"
+    >
+      <path
+        d="M28 39H17v82h11M43 39H32v82h11M117 39h11v82h-11M132 39h11v82h-11"
+      />
+      <path d="m51 51 13 55 16-35 16 35 13-55" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,68 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 1400 500"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <title id="title">Ionian Wikithon</title>
+  <desc id="desc">
+    Where open knowledge meets software engineering. Open Knowledge. Real Code.
+    Shared Impact. A forest-green editorial identity with an original wiki-link
+    W mark, based in Corfu, Greece.
+  </desc>
+  <g fill="#123D2A" font-family="Arial, Helvetica, sans-serif">
+    <path fill="#F7FAF7" d="M0 0h1400v500H0z" />
+    <path fill="#EAF1E8" d="M1040 0h360v500h-360z" />
+    <path stroke="#D6E2D4" d="M54 110h1292M1040 110v335" />
+    <g transform="translate(43 17) scale(.48)" color="#123D2A">
+      <g
+        fill="none"
+        stroke="currentColor"
+        stroke-width="5"
+        stroke-linecap="square"
+        stroke-linejoin="miter"
+      >
+        <path
+          d="M28 39H17v82h11M43 39H32v82h11M117 39h11v82h-11M132 39h11v82h-11"
+        />
+        <path d="m51 51 13 55 16-35 16 35 13-55" />
+      </g>
+    </g>
+    <text x="141" y="65" font-size="17" letter-spacing="2">
+      OPEN KNOWLEDGE / COMPUTER SCIENCE / COMMUNITY
+    </text>
+    <text x="1346" y="65" text-anchor="end" font-size="16" letter-spacing="1">
+      CORFU, GREECE
+    </text>
+    <text x="48" y="228" font-size="110" font-weight="750" letter-spacing="-5">
+      IONIAN
+    </text>
+    <text x="48" y="337" font-size="110" font-weight="750" letter-spacing="-6">
+      WIKITHON
+    </text>
+    <text x="55" y="388" font-size="25" fill="#435E4B">
+      Where open knowledge meets software engineering.
+    </text>
+    <g transform="translate(1048 141) scale(2.1)" color="#123D2A">
+      <g
+        fill="none"
+        stroke="currentColor"
+        stroke-width="5"
+        stroke-linecap="square"
+        stroke-linejoin="miter"
+      >
+        <path
+          d="M28 39H17v82h11M43 39H32v82h11M117 39h11v82h-11M132 39h11v82h-11"
+        />
+        <path d="m51 51 13 55 16-35 16 35 13-55" />
+      </g>
+    </g>
+    <path stroke="#D6E2D4" d="M54 435h1292" />
+    <text x="55" y="474" font-size="21" font-weight="600">
+      Open Knowledge. Real Code. Shared Impact.
+    </text>
+    <text x="1346" y="474" text-anchor="end" font-size="16" letter-spacing="1">
+      LEARN / BUILD / SHARE
+    </text>
+  </g>
+</svg>

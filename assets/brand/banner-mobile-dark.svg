@@ -1,0 +1,47 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 760 680"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <title id="title">Ionian Wikithon</title>
+  <desc id="desc">
+    Where open knowledge meets software engineering. Open Knowledge. Real Code.
+    Shared Impact. A forest-green editorial identity with an original wiki-link
+    W mark, based in Corfu, Greece.
+  </desc>
+  <g fill="#123D2A" font-family="Arial, Helvetica, sans-serif">
+    <path fill="#D9E7D7" d="M0 0h760v680H0z" />
+    <path fill="#E5EFE4" d="M0 0h760v562H0z" />
+    <g transform="translate(47 28) scale(.56)" color="#123D2A">
+      <g
+        fill="none"
+        stroke="currentColor"
+        stroke-width="5"
+        stroke-linecap="square"
+        stroke-linejoin="miter"
+      >
+        <path
+          d="M28 39H17v82h11M43 39H32v82h11M117 39h11v82h-11M132 39h11v82h-11"
+        />
+        <path d="m51 51 13 55 16-35 16 35 13-55" />
+      </g>
+    </g>
+    <text x="158" y="72" font-size="20" letter-spacing="2">CORFU / GREECE</text>
+    <path stroke="#B7CCB7" d="M52 143h656" />
+    <text x="48" y="263" font-size="104" font-weight="750" letter-spacing="-5">
+      IONIAN
+    </text>
+    <text x="48" y="373" font-size="104" font-weight="750" letter-spacing="-6">
+      WIKITHON
+    </text>
+    <g font-size="28" fill="#435E4B">
+      <text x="52" y="440">Where open knowledge meets</text>
+      <text x="52" y="479">software engineering.</text>
+    </g>
+    <text x="52" y="604" font-size="25" font-weight="600">
+      Open Knowledge. Real Code.
+    </text>
+    <text x="52" y="643" font-size="25" font-weight="600">Shared Impact.</text>
+  </g>
+</svg>
