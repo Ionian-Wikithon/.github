@@ -20,7 +20,7 @@ The announcements name NMSLab within the Department of Informatics at Ionian Uni
 
 The [user group's Meta-Wiki page](https://meta.wikimedia.org/wiki/Wikimedia_Community_User_Group_Greece) identifies the community organization. Support by the CEE Hub is tied to the named 2024 and 2026 editions rather than presented as a permanent organizing role.
 
-No Wikimedia Foundation operation, ownership of Wikipedia, endorsement, or institution-owned GitHub status is claimed. The SVG identity is newly authored for this organization profile and contains no copied institutional logos.
+No Wikimedia Foundation operation, ownership of Wikipedia, endorsement, or institution-owned GitHub status is claimed. The wiki-code identity is newly authored for this organization profile. Institutional and Wikimedia logos appear separately as identifying references; [docs/LOGOS.md](LOGOS.md) records their original sources and handling.
 
 ## Public repositories
 
@@ -34,7 +34,7 @@ The profile links to official MediaWiki, Wikimedia Developer Portal, Wikidata, C
 
 The [Greek Wikimedia community's Wikithon coverage](https://blog.wikimedia.gr/tag/wikithon/) is available and supports continued discovery. The supplied `www.wikimedia.gr` address was not reliably accessible during research; `https://wikimedia.gr/` resolved to the community's blog About page. The profile uses the stable Meta-Wiki user-group reference instead.
 
-The NMSLab standalone host timed out during verification. Its institutional role is linked to the university's announcement instead of an unreliable laboratory URL. No unavailable page is required to understand that relationship.
+The NMSLab standalone host timed out during verification. Its institutional role is linked to the university's announcement instead of an unreliable laboratory URL. Its logo was extracted from the university's published 2024 Wikithon poster, preserving the original artwork. No unavailable page is required to understand that relationship.
 
 The [Linktree page](https://linktr.ee/ionian_wikithon) was reachable but titled for the 2025 edition. It is omitted from the general participation invitation to avoid presenting historical registration as a current call for participants.
 

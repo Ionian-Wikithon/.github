@@ -93,6 +93,12 @@ The fifth edition took place on May 7-8, with Wikimedia tools and interactive ap
 
 ## Powered by collaboration
 
+<p align="center">
+  <a href="https://di.ionio.gr/en/"><img src="https://raw.githubusercontent.com/Ionian-Wikithon/.github/main/assets/affiliations/department.svg" alt="Department of Informatics, Ionian University" width="170"></a>
+  <a href="https://di.ionio.gr/gr/news/34573/"><img src="https://raw.githubusercontent.com/Ionian-Wikithon/.github/main/assets/affiliations/nmslab.svg" alt="NMSLab, the organizing laboratory" width="170"></a>
+  <a href="https://meta.wikimedia.org/wiki/Wikimedia_Community_User_Group_Greece"><img src="https://raw.githubusercontent.com/Ionian-Wikithon/.github/main/assets/affiliations/wikimedia-greece.svg" alt="Wikimedia Community User Group Greece" width="170"></a>
+</p>
+
 **[Ionian University](https://ionio.gr/en/) / [Department of Informatics](https://di.ionio.gr/en/)**<br>
 The academic setting for the initiative's teaching, technical learning and Corfu gatherings.
 
@@ -120,11 +126,20 @@ For community activities, follow the announcements linked in [our journey](#user
 
 ## Useful resources
 
+<p align="center">
+  <a href="https://www.wikimedia.org/"><img src="https://raw.githubusercontent.com/Ionian-Wikithon/.github/main/assets/affiliations/wikimedia.svg" alt="Wikimedia, the wider movement and its projects" width="130"></a>
+  <a href="https://www.wikipedia.org/"><img src="https://raw.githubusercontent.com/Ionian-Wikithon/.github/main/assets/affiliations/wikipedia.svg" alt="Wikipedia, the free encyclopedia" width="130"></a>
+</p>
+
+Wikimedia connects the wider movement; Wikipedia is one of its collaborative knowledge projects. These marks link to those resources.
+
 | Develop and contribute                                                    | Explore the knowledge                                             |
 | ------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | [Wikimedia Developer Portal](https://developer.wikimedia.org/)            | [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)      |
 | [MediaWiki documentation](https://www.mediawiki.org/wiki/MediaWiki)       | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) |
 | [Wikimedia Hackathon](https://www.mediawiki.org/wiki/Wikimedia_Hackathon) | [Wikimedia Meta-Wiki](https://meta.wikimedia.org/wiki/Main_Page)  |
+
+<sub>Wikipedia logo: Wikimedia, Nohat (concept by Paullusmagnus), <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>. <a href="https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2.svg">Original file</a> · <a href="https://github.com/Ionian-Wikithon/.github/blob/main/docs/LOGOS.md">All logo sources and credits</a>.</sub>
 
 ---
 

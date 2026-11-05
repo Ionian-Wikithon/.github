@@ -2,7 +2,7 @@
 
 This repository publishes the public profile of [Ionian Wikithon](https://github.com/Ionian-Wikithon). The visitor-facing document is [profile/README.md](profile/README.md).
 
-The visual identity uses an original `[[W]]` mark, a forest-green palette and an editorial layout. It connects open knowledge, computer science and community without using institutional or Wikimedia logos.
+The visual identity uses an original `[[W]]` mark, a forest-green palette and an editorial layout. It connects open knowledge, computer science and community alongside separately attributed institutional and Wikimedia marks.
 
 ## Files
 
@@ -14,6 +14,9 @@ assets/brand/banner-dark.svg   Desktop header for dark themes
 assets/brand/banner-mobile.svg Mobile header for light themes
 assets/brand/banner-mobile-dark.svg
                               Mobile header for dark themes
+assets/affiliations/           Attributed originals and theme-safe logo panels
+scripts/build-logo-panels.py   Optional Python standard-library panel generator
+docs/LOGOS.md                  Sources, credits and logo handling
 docs/SOURCES.md                Historical evidence and editorial decisions
 README.md                      Maintenance and publication guidance
 ```
@@ -44,7 +47,9 @@ There is no build system, package installation or runtime service. GitHub render
 
 Dark-mode artwork uses a muted sage surface rather than a predominantly black image. GitHub's own theme controls the surrounding text and page. A `<picture>` selects the desktop or mobile composition and the appropriate theme variant; the ordinary desktop image remains the fallback.
 
-SVGs use a `viewBox`, local system-font fallbacks, basic paths and accessible titles and descriptions. They contain no scripts, external fonts, animations, embedded raster imagery or third-party logo assets. Keep all variants synchronized when changing copy or geometry. The mark remains editable and is not presented as an institution's or Wikimedia's trademark.
+The original header and wiki-code mark SVGs use a `viewBox`, local system-font fallbacks, basic paths and accessible titles and descriptions. They contain no scripts, external fonts, animations, embedded raster imagery or third-party logo assets. Keep all variants synchronized when changing copy or geometry. The mark remains editable and is not presented as an institution's or Wikimedia's trademark.
+
+The affiliation and resource logos are separate assets. Their original artwork is preserved in `assets/affiliations/originals/`, with source metadata and checksums in `assets/affiliations/manifest.json`. The display panels embed those originals on white so their original colors remain legible in both themes. [Logo credits](docs/LOGOS.md) document source licenses, the poster extraction and the department's original CSS fills. Run `python3 scripts/build-logo-panels.py` only when updating these panels; it uses the standard library and verifies the source checksums. No build command is needed to view the profile.
 
 Profile image URLs point to this public repository's raw files so they work on both the repository page and the organization Overview. Asset documentation links use relative repository paths. If the default branch or asset paths change, update all four image URLs together.
 

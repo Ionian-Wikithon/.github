@@ -1,0 +1,73 @@
+{
+  "retrieved": "2026-11-05",
+  "display": "Original artwork placed without distortion on a white SVG surface for readable light- and dark-theme display. The display frame is separate from each institution's artwork.",
+  "trademarkPolicy": "https://foundation.wikimedia.org/wiki/Policy:Trademark_policy",
+  "assets": [
+    {
+      "id": "nmslab",
+      "label": "NMSLab",
+      "file": "nmslab.png",
+      "mime": "image/png",
+      "sourcePage": "https://di.ionio.gr/gr/news/30613/",
+      "downloadUrl": "https://ionio.gr/download.php?f=30000-30999/IU-nf-30613-93979-gr.pdf",
+      "creator": "NMSLab / Ionian University; individual logo designer not identified in the poster",
+      "copyright": "Institutional mark; no separate open-content license stated in the source",
+      "modifications": "Logo area extracted from the poster's embedded 3543 x 5010 raster image. Crop: left 2040, top 4175, width 760, height 220. No redrawing, recoloring, retouching or shape changes.",
+      "sha256": "e1cf99ddfbdf25d441b1a877cecc6a7d894134580066fba40cafea873565ff02"
+    },
+    {
+      "id": "department",
+      "label": "Department of Informatics, Ionian University",
+      "file": "department.svg",
+      "mime": "image/svg+xml",
+      "sourcePage": "https://di.ionio.gr/en/",
+      "downloadUrl": "https://di.ionio.gr/en/",
+      "styleSource": "https://di.ionio.gr/scripts/di.css",
+      "creator": "Department of Informatics, Ionian University; individual designer not identified on the source page",
+      "copyright": "Institutional mark; no separate open-content license stated in the source",
+      "modifications": "Inline header SVG extracted unchanged. The display panel embeds the original site's CSS colors for path1 and path2; no geometry changes.",
+      "svgStyle": ".path1{fill:#9C0101}.path2{fill:#143259}",
+      "sha256": "8994761cf3777d117a761f65505e61df1b648cdab1939bc7765d1458f1cfbd13"
+    },
+    {
+      "id": "wikimedia-greece",
+      "label": "Wikimedia Community User Group Greece",
+      "file": "wikimedia-greece.svg",
+      "mime": "image/svg+xml",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wikimedia_Community_User_Group_Greece.svg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Wikimedia_Community_User_Group_Greece.svg",
+      "creator": "Wikimedia Foundation logo and trademark; user-group adaptation by Exec8",
+      "copyright": "Public domain according to the Commons file description; trademark restrictions remain",
+      "license": "Public domain",
+      "modifications": "Original SVG unchanged.",
+      "sha256": "181ae690ba4d2c28f8a907640872c4c1d8285d9e655793018f3378d318c4abd6"
+    },
+    {
+      "id": "wikimedia",
+      "label": "Wikimedia",
+      "file": "wikimedia.svg",
+      "mime": "image/svg+xml",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wikimedia-logo.svg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Wikimedia-logo.svg",
+      "creator": "Neolux; SVG by Zscout370 with modifications by Dbenbenn",
+      "copyright": "Public domain according to the Commons file description; trademark restrictions remain",
+      "license": "Public domain",
+      "modifications": "Original SVG unchanged.",
+      "sha256": "e4e9e2f72b59b1b86a334557fcc51860aa7743b6829c8075dafb0a93ca8a8415"
+    },
+    {
+      "id": "wikipedia",
+      "label": "Wikipedia",
+      "file": "wikipedia.svg",
+      "mime": "image/svg+xml",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2.svg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Wikipedia-logo-v2.svg",
+      "creator": "Wikimedia; version 1 by Nohat, concept by Paullusmagnus",
+      "copyright": "Copyrighted; Wikimedia trademark",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "modifications": "Original SVG unchanged.",
+      "sha256": "90e01ef7af53a6b624fa24ee3a48c7d6dd9f55b0f999bc8c7303f8d289ecd798"
+    }
+  ]
+}
