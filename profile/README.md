@@ -11,7 +11,7 @@
 
 We connect computer science with the Wikimedia movement through hands-on learning, technical experimentation and collaborative knowledge. Based in Corfu, Greece, Ionian Wikithon brings students, educators, developers, researchers and volunteers together to learn and contribute.
 
-[Explore](#inside-our-github) · [Learn](#workshops-and-learning) · [Our journey](#our-journey) · [Contribute](#take-part)
+[Explore](#user-content-explore) · [Learn](#user-content-learn) · [Our journey](#user-content-journey) · [Contribute](#user-content-contribute)
 
 ## From the classroom to the community
 
@@ -32,6 +32,8 @@ Open knowledge needs people who understand both the information and the systems 
 
 The [2023 program](https://www.mediawiki.org/wiki/Ionian_Wikithon_2023) offers a concrete example: Wikidata, SPARQL, software localization, Web2Cit and participant-led hacking time.
 
+<a name="explore"></a>
+
 ## Inside our GitHub
 
 This organization is a place to share technical and educational work connected with Ionian Wikithon. The public collection is starting here, with this profile. **Workshop and software repositories are not public here yet.**
@@ -45,6 +47,8 @@ As material is published, this section will link directly to its source, instruc
 [Browse public repositories →](https://github.com/orgs/Ionian-Wikithon/repositories?type=public)
 
 For now, the official event programs and learning resources below are available without repository access.
+
+<a name="learn"></a>
 
 ## Workshops and learning
 
@@ -65,6 +69,8 @@ Follow the [Wikidata SPARQL tutorial](https://www.wikidata.org/wiki/Wikidata:SPA
 ### Keep learning with others
 
 The [Wikimedia Hackathon](https://www.mediawiki.org/wiki/Wikimedia_Hackathon) connects technical contributors across the movement. Bring a question or a documented experiment back to the community; an explanation that helps the next learner is a useful contribution too.
+
+<a name="journey"></a>
 
 ## Our journey
 
@@ -100,6 +106,8 @@ The Wikimedia CEE Hub is identified as a supporter of the [2024](https://di.ioni
 
 <sub>Ionian Wikithon participates in the Wikimedia ecosystem. This GitHub organization does not represent the Wikimedia Foundation or claim ownership of Wikipedia or other Wikimedia projects.</sub>
 
+<a name="contribute"></a>
+
 ## Take part
 
 Students and first-time contributors are welcome. Start by exploring the available resources and following a small example. You can contribute by explaining a confusing step, correcting documentation, reporting a problem, suggesting an improvement or sharing a relevant educational resource.
@@ -108,7 +116,7 @@ For this public profile, [open an issue](https://github.com/Ionian-Wikithon/.git
 
 For other repositories, follow their own contribution and licensing guidance. Maintainers may use a direct signed-commit workflow where write access has been granted. Publication and contribution rules can differ between projects.
 
-For community activities, follow the announcements linked in [our journey](#our-journey) and the [Greek Wikimedia community's event coverage](https://blog.wikimedia.gr/tag/wikithon/). Historical registration links are not invitations to a current event.
+For community activities, follow the announcements linked in [our journey](#user-content-journey) and the [Greek Wikimedia community's event coverage](https://blog.wikimedia.gr/tag/wikithon/). Historical registration links are not invitations to a current event.
 
 ## Useful resources
 

@@ -22,7 +22,7 @@ There is no build system, package installation or runtime service. GitHub render
 
 ## Maintain the profile
 
-- Edit public-facing copy in `profile/README.md`. Keep the opening short and use native Markdown headings and links.
+- Edit public-facing copy in `profile/README.md`. Keep the opening short and use native Markdown headings and links. The four navigation targets use explicit named anchors and GitHub's `user-content-` prefix so section links also work in the signed-out organization Overview. Keep those names and links synchronized.
 - Verify historical additions against original university announcements or Wikimedia event documentation. Record important evidence and limitations in [docs/SOURCES.md](docs/SOURCES.md).
 - Feature a repository only after confirming it is public. Use its exact name, a direct link, its learning purpose and its current maintenance status. Replace the introductory publishing section when public workshop or software collections become available.
 - Add each future edition as a short dated entry in the journey, with a reliable reference. A proposal or announcement alone does not prove completion or an outcome.
